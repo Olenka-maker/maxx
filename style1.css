@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(134, 78, 58);
+
+    margin: 0;
+    text-align: center;
+    color: rgb(222, 185, 136);
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nav-link{
+    text-decoration: none;
+    margin-left: 35px;
+    background-color: rgb(222, 185, 136);
+    border-radius: 12px;
+    padding: 9px;
+    color: rgb(134, 78, 58);
+    font-weight: 600;
+}
+
+.article-but{
+    background-color: rgb(222, 185, 136);
+    border-radius: 12px;
+    padding: 9px;
+    color: rgb(134, 78, 58);
+    font-weight: 600;
+    text-decoration: none;
+    margin-bottom: 36px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+main img{
+    border:2px solid rgb(222, 185, 136);
+    margin-top: 22px;
+}
